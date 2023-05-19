@@ -334,7 +334,7 @@
       "hash": "88ef99be097971478487e431da5d038d",
       "mediatype": "text/csv",
       "name": "concat",
-      "path": "https://storage.openspending.org/concat.csv",
+      "path": "https://storage.openspending.org/de3-berlin-2007-2013-esf/concat.csv",
       "schema": {
         "fields": [
           {
